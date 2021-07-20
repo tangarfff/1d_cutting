@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CuttingStock": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

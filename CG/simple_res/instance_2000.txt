@@ -1,0 +1,4 @@
+roll width:  [ 60  90  96 120]
+roll_price:  [120 180 192 240]
+demand_width_array:  [47 22 82 ... 44 81 52]
+demand_number_array:  [50 25 82 ... 70 57 78]
