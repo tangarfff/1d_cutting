@@ -18,12 +18,14 @@ result_validation.py  列生成结果验证
 ## 降序首次适应算法(FFD)&降序最佳适应算法(BFD) (C#)
 ### 降序首次适应算法(FFD)
 先对物品按降序排序，再按照首次适应算法进行装箱。
+
 ### 降序最佳适应算法(BFD)
 先对物品按降序排序，再按照最佳适应算法进行装箱。
 program.cs 主代码，可测试5号杠杆厂编号为1-7的真实数据
 
 ## TABU禁忌算法(python)&SA模拟退火算法(JAVA)
 tabu参考 : https://blog.csdn.net/weixin_41565013/article/details/117927722
+
 SA 参考：https://github.com/jakubBienczyk/1D-Cutting-Stock-Problem-Simulated-Annealing
 
 ## 测试结果
