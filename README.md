@@ -26,6 +26,7 @@ program.cs：main code
 
 ## TABU(python)&simulated annealing(JAVA)
 tabu reference : https://blog.csdn.net/weixin_41565013/article/details/117927722
+
 SA reference：https://github.com/jakubBienczyk/1D-Cutting-Stock-Problem-Simulated-Annealing
 
 ## test result
