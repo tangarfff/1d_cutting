@@ -3,17 +3,23 @@
 dataset: 标准数据集
 
 ## 列生成算法 (python)
-res_11m_300s: 原材料11m, 300s的运行结果。
+### res_11m_300s
+原材料11m, 300s的运行结果。
 
-res_12m_300s: 原材料12m, 300s的运行结果。
+### res_12m_300s
+原材料12m, 300s的运行结果。
 
-test_result： 不同规模原材料, 7200s的运行结果。 
+### test_result
+不同规模原材料, 7200s的运行结果。 
 
-column_generation.py 支持一种原材料的列生成。
+### column_generation.py 
+支持一种原材料的列生成。
 
-gurobi_cg_four.py 支持四种原材料的列生成。
+### gurobi_cg_four.py 
+支持四种原材料的列生成。
 
-result_validation.py  列生成结果验证
+### result_validation.py  
+列生成结果验证
 
 ## 降序首次适应算法(FFD)&降序最佳适应算法(BFD) (C#)
 ### 降序首次适应算法(FFD)
